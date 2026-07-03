@@ -84,7 +84,7 @@ const Blog = () => {
         <p className='text-primary font-medium py-4'>Published On : {Moment(data.createdAt).format('MMMM Do YYYY')}</p>
         <h1 className='text-2xl sm:text-5xl font-semibold max-w-2xl mx-auto text-gray-800'>{data.title}</h1>
         <h2 className='my-5 max-w-lg truncate mx-auto'>{data.subTitle}</h2>
-        <p className='inline-block py-1 px-4 rounded-full mb-6 border text-sm border-primary/35 bg-primary/ font-medium text-primary'>Michael Patil</p>
+        <p className='inline-block py-1 px-4 rounded-full mb-6 border text-sm border-primary/35 bg-primary/ font-medium text-primary'>Ritesh Ranbaware</p>
       </div>
 
 
