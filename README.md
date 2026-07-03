@@ -4,7 +4,7 @@
 
 **An AI-powered, full-stack MERN blogging platform with Groq LLaMA content generation, rich-text editing, and a secure admin dashboard.**
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-quickblog.vercel.app-5044E5?style=for-the-badge)](https://quickblog-client.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-quickblog--z88k.vercel.app-5044E5?style=for-the-badge)](https://quickblog-z88k.vercel.app/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-Express%205-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
